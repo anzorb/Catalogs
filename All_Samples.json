@@ -497,6 +497,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "deviceinfo", "ext-bbos" ]
  },
+ "deviceInfo(bb10,ext)": {
+     "desc": "BlackBerry 10 WebWorks extension that provides additional APIs to identify the device.",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/deviceInfo",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "https://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "deviceinfo", "ext-bb10" ]
+ },
  "Dialog": {
      "desc": "How to display a dialog using the dialog service",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/Dialog",
@@ -2342,6 +2349,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "note": "Also see the <a href='https://github.com/blackberry/bb-cascades-oauth'>bb-cascades-oauth</a> repo",
      "tags": [ "native", "facebook", "bb10", "oauth", "twitter" ]
+ },
+ "UI-Layouts":{
+     "desc": "Absolute and Flexible layout models targeting BlackBerry 10 WebWorks",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/UI-Layouts",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "https://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "bb10", "flex-box", "box", "layout" ]
  },
  "UIExamples": {
      "desc": "Shows how to replicated some common types of BlackBerry UI concepts.  Use bbUI.js instead",
